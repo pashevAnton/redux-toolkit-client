@@ -1,6 +1,12 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+
 .post__list {
   width: 100%;
   padding: 20px;
+
 }
 
 .user {
